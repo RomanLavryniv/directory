@@ -1,0 +1,10 @@
+ul li {
+    list-style-type: none;
+    padding: 3px;
+}
+.tree span:hover {
+    font-weight: bold;
+}
+.tree span {
+    cursor: pointer;
+}
